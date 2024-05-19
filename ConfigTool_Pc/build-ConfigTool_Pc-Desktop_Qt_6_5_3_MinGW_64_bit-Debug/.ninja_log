@@ -1,0 +1,18 @@
+# ninja log v5
+2	14	0	C:/Users/Yuan/Documents/GitHub/McuConfigTool/ConfigTool_Pc/build-ConfigTool_Pc-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	177f9ae4c552abba
+14	446	7377498054621663	build.ninja	725d5fd2b01dc0e3
+9	135	7377840238658289	C:/Users/Yuan/Documents/GitHub/McuConfigTool/ConfigTool_Pc/build-ConfigTool_Pc-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/ConfigTool_Pc_autogen/timestamp	499aa265f608c168
+9	135	7377840238658289	ConfigTool_Pc_autogen/timestamp	499aa265f608c168
+9	135	7377840238658289	ConfigTool_Pc_autogen/mocs_compilation.cpp	499aa265f608c168
+9	135	7377840238658289	C:/Users/Yuan/Documents/GitHub/McuConfigTool/ConfigTool_Pc/build-ConfigTool_Pc-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/ConfigTool_Pc_autogen/mocs_compilation.cpp	499aa265f608c168
+392	1724	7377834692076272	CMakeFiles/ConfigTool_Pc.dir/ConfigTool_Pc_autogen/mocs_compilation.cpp.obj	9f03ae160187a534
+390	1724	7377834692066272	CMakeFiles/ConfigTool_Pc.dir/main.cpp.obj	62b553547195b309
+141	1570	7377840252998023	CMakeFiles/ConfigTool_Pc.dir/mainwindow.cpp.obj	d4843f5b64019547
+1570	1703	7377840254318707	ConfigTool_Pc.exe	d71f72fd645b4e56
+2	16	0	C:/Users/Yuan/Documents/GitHub/McuConfigTool/ConfigTool_Pc/build-ConfigTool_Pc-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	177f9ae4c552abba
+5	132	7377841507279754	ConfigTool_Pc_autogen/timestamp	499aa265f608c168
+5	132	7377841507279754	ConfigTool_Pc_autogen/mocs_compilation.cpp	499aa265f608c168
+5	132	7377841507279754	C:/Users/Yuan/Documents/GitHub/McuConfigTool/ConfigTool_Pc/build-ConfigTool_Pc-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/ConfigTool_Pc_autogen/timestamp	499aa265f608c168
+5	132	7377841507279754	C:/Users/Yuan/Documents/GitHub/McuConfigTool/ConfigTool_Pc/build-ConfigTool_Pc-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/ConfigTool_Pc_autogen/mocs_compilation.cpp	499aa265f608c168
+138	1510	7377841521057509	CMakeFiles/ConfigTool_Pc.dir/mainwindow.cpp.obj	d4843f5b64019547
+1510	1631	7377841522235183	ConfigTool_Pc.exe	d71f72fd645b4e56

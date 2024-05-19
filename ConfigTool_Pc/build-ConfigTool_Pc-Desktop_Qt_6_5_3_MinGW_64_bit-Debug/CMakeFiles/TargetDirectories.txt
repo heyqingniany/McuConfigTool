@@ -1,0 +1,9 @@
+C:/Users/Yuan/Documents/GitHub/McuConfigTool/ConfigTool_Pc/build-ConfigTool_Pc-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/ConfigTool_Pc.dir
+C:/Users/Yuan/Documents/GitHub/McuConfigTool/ConfigTool_Pc/build-ConfigTool_Pc-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Yuan/Documents/GitHub/McuConfigTool/ConfigTool_Pc/build-ConfigTool_Pc-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Yuan/Documents/GitHub/McuConfigTool/ConfigTool_Pc/build-ConfigTool_Pc-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Yuan/Documents/GitHub/McuConfigTool/ConfigTool_Pc/build-ConfigTool_Pc-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Yuan/Documents/GitHub/McuConfigTool/ConfigTool_Pc/build-ConfigTool_Pc-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Yuan/Documents/GitHub/McuConfigTool/ConfigTool_Pc/build-ConfigTool_Pc-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/Yuan/Documents/GitHub/McuConfigTool/ConfigTool_Pc/build-ConfigTool_Pc-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/ConfigTool_Pc_autogen_timestamp_deps.dir
+C:/Users/Yuan/Documents/GitHub/McuConfigTool/ConfigTool_Pc/build-ConfigTool_Pc-Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/ConfigTool_Pc_autogen.dir
